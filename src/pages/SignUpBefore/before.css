@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.before{
+    display: flex;
+    font-family: 'Inter', sans-serif;
+}
+
+.aside{
+    width: 44.58vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+}
+
+.background{
+    width: 44.58vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.bgc{
+    background: #1565D8;
+    width: 44.58vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    opacity: 0.9;
+}
+
+.ellipse1{
+    position: absolute;
+    top: 5.9vh;
+    left: 6.18vw;
+    width: 2.53vw;
+    height: 2.53vw;
+}
+
+.ellipse{
+    position: absolute;
+    top: 6.77vh;
+    left: 6.44vw;
+    width: 3vw;
+    height: 3vw;
+}
+
+.logo p{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 9.44vw;
+    top:5.5vh;
+    font-size: 1.11vw;
+    color: white;
+}
+
+.q{
+    position: absolute;
+    top:32.2vh;
+    left: 5.69vw;
+    width:1.94vw;
+}
+
+.comment{
+    position: absolute;
+    top:34.27vh;
+    left: 5.69vw;
+    width:32.77vw;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.38vw;
+    line-height: 3vw;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+
+}
+
+.writer{
+    top:60vh;
+}
+
+.vector{
+    position: absolute;
+    left:33.6vw;
+    top:73vh;
+    width: 2.32vw;
+}
+.arrow{
+ 
+    position: absolute;
+    left:50vw;
+    top:5.5vh;
+    height: 1vw;
+    cursor: pointer;
+}
+
+.back{
+    position: absolute;
+    left:51vw;
+    top:3.3vh;
+    font-size:1vw ;
+    color: #8692A6;
+    cursor: pointer;
+}
+
+.t{
+    display: flex;
+    flex-direction: column;
+ 
+    position: absolute;
+    top:10vh;
+    left:55vw;
+}
+.main h1{
+   
+    font-size: 2.08vw;
+    font-weight: 1000;
+    line-height: 2.5vw;
+    margin-bottom: -10px;
+    
+}
+
+.for{
+    font-size: 1.1vw;
+    line-height: 1.94vw;
+    width:28.54vw;
+    display: flex;
+   
+    color: #8692A6;
+    font-weight: lighter;
+
+}
+
+.in{
+    position: absolute;
+    top:25.58vh;
+    left:55vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.check{
+    display: flex;
+    margin-top:3vh ;
+    margin-bottom:0.3vh ;
+    color: #696F79;
+    font-size: 1.11vw; 
+    
+}
+
+.check label{
+    margin-left: 0.7vw;
+}
+
+.in1{
+    
+    color: #FFC107;
+    font-size: 0.972vw;
+    margin-bottom: -2vh;
+}
+
+
+    
+.we{
+    margin-top: 1vh;
+    display: flex;
+}
+.weak{
+    width:5vw;
+    background-color: red;
+    border: none;
+}
+.empty1{
+    width:23.45vw;
+    background-color: #C4C4C4;
+    border: none;
+}
+
+.good{
+    width:20vw;
+    background: #FFC107;
+    border: none;
+}
+.empty2{
+    width:8.45vw;
+    background-color: #C4C4C4;
+    border: none;
+}
+
+.strong{
+    width:28.54vw;
+    background-color:green;
+    border: none;
+}
+
+.none{
+    display: none;
+}

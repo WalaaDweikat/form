@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+.button{
+    width:28.54vw;
+    height: 4vw;
+    box-sizing: border-box;
+    border-radius: 0.416vw;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 34.7vw;
+    font-size:1.11vw;
+    line-height: 1.319vw;
+    text-align: center;
+    margin-top:2.34vh ;
+    
+
+}
+
+.white{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+    color: #000000;
+}
+
+.blue{
+    border-color: #1565D8;
+    background: #1565D8;
+    color: #FFFFFF;
+}
+
+.icon{
+    width:1.38vw;
+    height: 1.38vw;
+    position: relative;
+    right:10vw;
+}

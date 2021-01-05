@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.input{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.input label{
+    font-size: 1.11vw;
+    color: #696F79;
+    line-height: 1.319vw;
+    margin-bottom: 0.7vh;
+    margin-top:3vh ;
+}
+.input input{
+    width:28.54vw;
+    height: 4vw;
+    border: 1px solid #8692A6;
+    box-sizing: border-box;
+    border-radius: 0.4vw;
+    font-weight: 500;
+    font-size: 0.97vw;
+    line-height: 1.18vw;
+    display: flex;
+    align-items: center;
+    color:black;
+    padding-left: 1vw;;
+}

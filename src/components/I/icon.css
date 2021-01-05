@@ -1,0 +1,12 @@
+.i{
+    width:4.5vw;
+    height: 4.54vw;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+    border-radius: 0.416vw;
+    border-color: white;
+}
+.i img{
+    width:2.3vw;
+    height: 2.3vw;
+}

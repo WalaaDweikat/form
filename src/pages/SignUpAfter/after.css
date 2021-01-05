@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+.after{
+    display: flex;
+    font-family: 'Inter', sans-serif;
+}
+
+.side{
+   
+    width: 44.58vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub1{
+    position: absolute;
+    left:5.55vw;
+    top:4.63vh;
+    width:4.57vw;
+    height: 4.57vw;
+}
+.sub2{
+    position: absolute;
+    width:6vw;
+    height:6vw;
+    left: 6vw;
+    top:6.5vh;
+}
+.gamersAfter{
+    position: absolute;
+    left: 11.458vw;
+    top:-5vh;
+    font-family: 'Righteous', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4vw;
+    line-height: 6.18vw;
+    color: #1565D8;
+}
+
+.q2{
+    position: absolute;
+    left:5.55vw;
+    top: 30.37vh;
+    width: 1.458vw;
+    height: 1.458vw;
+   
+}
+
+.aferComment{
+    position: absolute;
+    width: 32.847vw;
+    left:5.55vw;
+    top: 32.42vh;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.38vw;
+    line-height: 2.638vw;
+    align-items: center;
+    color: #696F79;
+}
+
+.afterWriter{
+    position: absolute;
+    left: 5.55vw;
+    top: 54.19vh;
+    font-style: normal;
+    font-weight: 34.7vw;
+    font-size: 1.38vw;
+    line-height: 2.638vw; 
+    color: #696F79;
+}
+
+.superscene{
+    position: absolute;
+    width: 20vw;
+    height: 41vh;
+    left: 24.3vw;
+    top:52vh;
+}
+
+.At{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:14.25vh;
+    left:58vw;
+
+}
+.mainA h1{
+    font-size: 2.08vw;
+    font-weight: 1000;
+    line-height: 2.5vw;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: -10px;
+    
+
+}
+
+.go{
+    font-size: 1.1vw;
+    line-height: 1.94vw;
+    width:28.54vw;
+    font-weight: lighter;
+    color: #8692A6;
+    margin-left: -2.5vw;
+
+
+}
+
+.icons{
+    display: flex;
+    width: 22vw;
+    position: absolute;
+    top:30vh;
+    left:55.5vw;
+    justify-content: space-around;
+}
+
+.or{
+    position: absolute;
+    overflow: hidden;
+    left:55vw;
+    top:41vh;
+    color: #BABABA;
+    font-size: 0.83vw;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:45vh;
+    left:53vw;
+}
+
+.new{
+    position: absolute;
+    left: 7vw;
+    top: 40vh;
+    font-weight: 510;
+    font-size: 1vw;
+    line-height:1.319vw;
+    display: flex;
+    color: #696F79;
+}
+.new span{
+ color: #1565D8;
+ cursor: pointer;
+}
+
+.hide{
+    display:none;
+}
+
+.eye{
+    position: absolute;
+    left: 90%;
+    top: 60%;
+    width:1.5vw;
+    height: 1.5vw;
+    cursor: pointer;
+
+}
+
+.log{
+    
+    color: #FFC107;
+    font-size: 0.972vw;
+    margin-bottom: -1vh;
+}
