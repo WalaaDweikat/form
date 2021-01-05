@@ -2,7 +2,7 @@
   "name": "sign-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WalaaDweikat.github.io/login",
+  "homepage": "https://WalaaDweikat.github.io/form",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
