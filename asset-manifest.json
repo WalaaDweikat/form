@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/form/static/css/main.28e547b4.chunk.css",
+    "main.js": "/form/static/js/main.5d8c23a9.chunk.js",
+    "main.js.map": "/form/static/js/main.5d8c23a9.chunk.js.map",
+    "runtime-main.js": "/form/static/js/runtime-main.d9db88c5.js",
+    "runtime-main.js.map": "/form/static/js/runtime-main.d9db88c5.js.map",
+    "static/js/2.edd2c0a9.chunk.js": "/form/static/js/2.edd2c0a9.chunk.js",
+    "static/js/2.edd2c0a9.chunk.js.map": "/form/static/js/2.edd2c0a9.chunk.js.map",
+    "static/js/3.5c554526.chunk.js": "/form/static/js/3.5c554526.chunk.js",
+    "static/js/3.5c554526.chunk.js.map": "/form/static/js/3.5c554526.chunk.js.map",
+    "index.html": "/form/index.html",
+    "static/css/main.28e547b4.chunk.css.map": "/form/static/css/main.28e547b4.chunk.css.map",
+    "static/js/2.edd2c0a9.chunk.js.LICENSE.txt": "/form/static/js/2.edd2c0a9.chunk.js.LICENSE.txt",
+    "static/media/bg.448b03ee.png": "/form/static/media/bg.448b03ee.png",
+    "static/media/superscene.899607da.png": "/form/static/media/superscene.899607da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9db88c5.js",
+    "static/js/2.edd2c0a9.chunk.js",
+    "static/css/main.28e547b4.chunk.css",
+    "static/js/main.5d8c23a9.chunk.js"
+  ]
+}
