@@ -93,10 +93,10 @@ export default function SignUpBefore() {
       </aside>
 
       <div className="main">
-        <Link to="/">
+        <Link to="/sign">
           <img src={back} alt="back" className="arrow" />{" "}
         </Link>
-        <Link to="/">
+        <Link to="/sign">
           <p className="back">Back</p>
         </Link>
         <div className="t">
@@ -159,7 +159,7 @@ export default function SignUpBefore() {
             name="Register Account"
             onClick={handleRegister}
           />
-          <Link to="/">
+          <Link to="/sign">
             <Button
               color="white"
               name="login"
